@@ -8,3 +8,5 @@ Pos_pnts.mat is a collection of reachable points for the robot
 The main.m script can be used to run all the experimens.
 
 The example_with_trajectories.m script shows an example of the resulting trajectory.
+
+The implementations of the used algorithms are in the algos folder.
